@@ -9,12 +9,11 @@ the flow chart of our application
 ![pic1](https://github.com/AbeEgbezien06/BHUProject/assets/159142023/1a2a505e-b923-4ffe-ba90-d8f08f4ed57d)
 
 #POWER POINT PRESENTATION
-[CALCULATOR PROJECT.pptx](https://github.com/AbeEgbezien06/BHUProject/files/14229627/CALCULATOR.PROJECT.pptx)
-
+[BASIC_CALCULATOR_FLOW_CHART[1].pptx](https://github.com/AbeEgbezien06/BHUProject/files/14229604/BASIC_CALCULATOR_FLOW_CHART.1.pptx)
 
 # BHUProject
 CALCULATOR PROJECT
-[BASIC_CALCULATOR_FLOW_CHART[1].pptx](https://github.com/AbeEgbezien06/BHUProject/files/14229604/BASIC_CALCULATOR_FLOW_CHART.1.pptx)
+
 
 
 CONTRIBUTORS
