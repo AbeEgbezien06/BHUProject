@@ -1,4 +1,4 @@
-![code](https://github.com/AbeEgbezien06/BHUProject/assets/159530711/f4c8ea25-cc91-42e3-8bee-85240e3f524b)CALCULATOR PROJECT
+CALCULATOR PROJECT
 Simple Calculator App
 This is a basic calculator application built using Tkinter in Python. It allows users to perform simple arithmetic calculations.
 
