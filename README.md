@@ -22,7 +22,6 @@ CONTRIBUTORS
 .Oseghale Stephen	BHU/23/04/05/0118
 .Kalifa Ibrahim lawal	BHU/23/04/05/0088 
 
-
 # Calculator Project Documentation
 
 ## Introduction
@@ -144,5 +143,5 @@ We strive to create a welcoming and inclusive community. Please follow our code 
 
 
 ## Contact Information
- lifabrahim1209@gmail.com 
-barnabasegbezien@gmail.com
+  . lifabrahim1209@gmail.com
+  . barnabasegbezien@gmail.com
