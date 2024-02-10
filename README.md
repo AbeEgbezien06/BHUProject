@@ -4,10 +4,15 @@ This is a basic calculator application built using Tkinter in Python. It allows 
 
 ![code](https://github.com/AbeEgbezien06/BHUProject/assets/159530711/8d1909de-15d2-4174-8c21-51b2dfbb0cb1)
 
+FLOWCHART
+the flow chart of our application
+![pic1](https://github.com/AbeEgbezien06/BHUProject/assets/159142023/1a2a505e-b923-4ffe-ba90-d8f08f4ed57d)
+
 
 # BHUProject
 CALCULATOR PROJECT
-[Uploading CALCULATOR PROJECT.pptx…]()
+[BASIC_CALCULATOR_FLOW_CHART[1].pptx](https://github.com/AbeEgbezien06/BHUProject/files/14229604/BASIC_CALCULATOR_FLOW_CHART.1.pptx)
+
 
 CONTRIBUTORS
 .Egbezien Barnabas	BHU/23/04/09/0088
