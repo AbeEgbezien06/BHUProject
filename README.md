@@ -61,6 +61,23 @@ You should now be able to see the calculator application running in your termina
 
 
 
+# Using the Calculator Application
+
+1. **Start the Application**: Run the application as per the instructions in the installation guide. You should see a user interface with buttons for numbers 0-9 and operations like add (+), subtract (-), multiply (*), and divide (/).
+
+2. **Input Numbers**: Click on the buttons for numbers to input the first number of your calculation.
+
+3. **Choose an Operation**: Click on the button for the operation you want to perform.
+
+4. **Input the Second Number**: Click on the buttons for numbers to input the second number of your calculation.
+
+5. **Calculate**: Press the equals (=) button to calculate the result. The result will be displayed on the screen.
+
+6. **Clear the Calculator**: If you want to perform a new calculation, press the clear (C) button to reset the calculator.
+
+Remember, this is a basic guide and the actual usage might vary depending on the specific features and user interface of your calculator application.
+
+
 
 
 
