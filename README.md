@@ -1,5 +1,7 @@
 CALCULATOR PROJECT
 
+![code](https://github.com/AbeEgbezien06/BHUProject/assets/159530711/f97b99fe-835c-4fcc-aa51-57fc4a2285da)
+
 # BHUProject
 CALCULATOR PROJECT
 [Uploading CALCULATOR PROJECT.pptx…]()
